@@ -55,7 +55,7 @@ However, if you get some profit from this or just want to encourage me to contin
  - Starring and sharing the projects you like :rocket:
  - [![PayPal](https://alfreddagenais.github.io/badges/paypal.svg)][paypal-donations] — You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
  - [![Support me on Patreon](https://alfreddagenais.github.io/badges/patreon.svg)][patreon]—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
- - [![Buy Me a Coffee](https://alfreddagenais.github.io/badges/buymeacoffee.svg)][buymeacoffee] — You can make one-time donations via Buy Me a Coffee. I'll probably buy a coffee or tea. :tea:
+ - [![Buy Me a Coffee](https://alfreddagenais.github.io/badges/buymeacoffee-sm.svg)][buymeacoffee] — You can make one-time donations via Buy Me a Coffee. I'll probably buy a coffee or tea. :tea:
 
 Thanks! :heart:
 
