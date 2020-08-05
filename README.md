@@ -18,8 +18,6 @@
 
 <br /><br />
 
-<a href="https://www.buymeacoffee.com/AlfredDagenais" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-
 ---
 
 ## 📕 Latest Blog Posts
@@ -44,6 +42,14 @@
 | <img src="https://user-images.githubusercontent.com/1215767/34348387-a2e64588-ea4d-11e7-8267-a43365103afe.png" alt="Chrome" width="16px" height="16px" /> Chrome | <img src="https://user-images.githubusercontent.com/1215767/34348383-9e7ed492-ea4d-11e7-910c-03b39d52f496.png" alt="Firefox" width="16px" height="16px" /> Firefox | <img src="https://user-images.githubusercontent.com/1215767/34348394-a981f892-ea4d-11e7-9156-d128d58386b9.png" alt="Safari" width="16px" height="16px" /> Safari | <img src="https://user-images.githubusercontent.com/1215767/34348380-93e77ae8-ea4d-11e7-8696-9a989ddbbbf5.png" alt="Edge" width="16px" height="16px" /> Edge | <img src="https://user-images.githubusercontent.com/1215767/34348590-250b3ca2-ea4f-11e7-9efb-da953359321f.png" alt="IE" width="16px" height="16px" /> Internet Explorer |
 | :---------: | :---------: | :---------: | :---------: | :---------: |
 | Yes | Yes | Yes | Yes | 10+ |
+
+---
+
+## 💕 Support me and my work 💕
+
+<a href="https://paypal.me/AlfredDagenais" target="_blank">paypal.me/AlfredDagenais</a>
+
+<a href="https://www.buymeacoffee.com/AlfredDagenais" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 [website]: https://AlfredDagenais.com
 [twitter]: https://twitter.com/ProgrammeurWeb
