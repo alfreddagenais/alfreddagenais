@@ -32,10 +32,14 @@
 ---
 
 #### Some Stats
-<img align="left" alt="AlfredDagenais's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfreddagenais&show_icons=true&hide_border=true" />
+
+<img alt="AlfredDagenais's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfreddagenais&show_icons=true&hide_border=true" />
+
+---
 
 #### Top languages used in my repos
-<img align="left" alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreddagenais&layout=compact&hide_border=true" />
+
+<img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreddagenais&layout=compact&hide_border=true" />
 
 [website]: https://AlfredDagenais.com
 [twitter]: https://twitter.com/ProgrammeurWeb
