@@ -45,13 +45,20 @@
 
 ---
 
-## 💕 Support me and my work 💕
+## 💕 Support me and my projects :sparkling_heart:
 
-<a href="https://paypal.me/AlfredDagenais" target="_blank">paypal.me/AlfredDagenais</a>
+I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
+this takes time. You can integrate and use these projects in your applications *for free*! You can even change the source code and redistribute (even resell it).
 
-<a href="https://www.patreon.com/alfreddagenais" target="_blank">patreon.com/AlfredDagenais</a>
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
 
-<a href="https://www.buymeacoffee.com/AlfredDagenais" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+ - Starring and sharing the projects you like :rocket:
+ - [![PayPal][badge_paypal]][paypal-donations]—You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+ - [![Support me on Patreon][badge_patreon]][patreon]—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
+
+<a href="https://www.buymeacoffee.com/AlfredDagenais" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" ></a>
+
+Thanks! :heart:
 
 [website]: https://AlfredDagenais.com
 [twitter]: https://twitter.com/ProgrammeurWeb
@@ -60,3 +67,5 @@
 [linkedin]: https://linkedin.com/in/AlfredDagenais
 [websitekm]: https://KilukruMedia.com
 [websitemtp]: https://mangetespousses.com
+[paypal-donations]: https://paypal.me/AlfredDagenais
+[patreon]: https://www.patreon.com/alfreddagenais
