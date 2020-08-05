@@ -51,7 +51,7 @@
 
 <a href="https://www.patreon.com/alfreddagenais" target="_blank">patreon.com/AlfredDagenais</a>
 
-<a href="https://www.buymeacoffee.com/AlfredDagenais" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/AlfredDagenais" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 [website]: https://AlfredDagenais.com
 [twitter]: https://twitter.com/ProgrammeurWeb
