@@ -53,10 +53,9 @@ this takes time. You can integrate and use these projects in your applications *
 However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
 
  - Starring and sharing the projects you like :rocket:
- - [![PayPal](https://ionicabizau.github.io/badges/paypal.svg)][paypal-donations] — You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
- - [![Support me on Patreon](https://ionicabizau.github.io/badges/patreon.svg)][patreon]—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
-
-<a href="https://www.buymeacoffee.com/AlfredDagenais" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" ></a>
+ - [![PayPal](https://alfreddagenais.github.io/badges/paypal.svg)][paypal-donations] — You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+ - [![Support me on Patreon](https://alfreddagenais.github.io/badges/patreon.svg)][patreon]—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
+ - [![Buy Me a Coffee](https://alfreddagenais.github.io/badges/buymeacoffee.svg)][buymeacoffee] — You can make one-time donations via Buy Me a Coffee. I'll probably buy a coffee or tea. :tea:
 
 Thanks! :heart:
 
@@ -69,3 +68,4 @@ Thanks! :heart:
 [websitemtp]: https://mangetespousses.com
 [paypal-donations]: https://paypal.me/AlfredDagenais
 [patreon]: https://www.patreon.com/alfreddagenais
+[buymeacoffee]: https://www.buymeacoffee.com/AlfredDagenais
