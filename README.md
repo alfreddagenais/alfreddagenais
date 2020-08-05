@@ -17,6 +17,7 @@
 [<img align="left" alt="AlfredDagenais | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
 ---
 
 ## 📕 Latest Blog Posts
@@ -27,6 +28,8 @@
 - [Responsive Breakpoints – Une image responsive pour toutes les résolutions](https://www.alfreddagenais.com/responsive-breakpoints-image-responsive-toutes-resolutions/)
 - [Responsive Design : conception de sites web adaptatifs](https://www.alfreddagenais.com/responsive-design-conception-de-sites-web-adaptatifs/)
 <!-- BLOG-POST-LIST:END -->
+
+<br />
 
 ---
 
