@@ -17,6 +17,7 @@
 [<img align="left" alt="AlfredDagenais | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+---
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -33,7 +34,7 @@
 
 <img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreddagenais&layout=compact&hide_border=true" />
 
-<br />
+---
 
 ## 🌏 Browser Support
 
