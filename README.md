@@ -1,11 +1,13 @@
 ### Hi there, I'm ✨ [Alfred][website] ✨ - as [KilukruMedia][websitekm] 👋 
 
 ## I'm a Developer, Programmer, Designer, Constructor and Teacher! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+- 👨🏻‍💻 Full-Stack Developer
 - 🔭 I’m currently working on a [Microgreens App][websitemtp] 🌱!
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 🚀 One day I will see humans on Mars!
 - ⚡ Fun fact: I love to draw and build house
 
 <br />
