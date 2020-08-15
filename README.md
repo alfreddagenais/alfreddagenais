@@ -1,7 +1,7 @@
 ### Hi there, I'm ✨ [Alfred][website] ✨ - as [KilukruMedia][websitekm] 👋 
 
 ## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Home Builder and a Dancer! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
-- 👨🏻‍💻 Full-Stack Developer
+- 👨🏻‍💻 Developer with more then 12 years experience
 - 🔭 I’m currently working on a [Microgreens App][websitemtp] 🌱!
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
