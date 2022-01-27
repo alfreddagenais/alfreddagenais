@@ -1,0 +1,21 @@
+name: DevCard
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: @dailydotdev/devcard
+        uses: dailydotdev/action-devcard@2.0.5
+          with:
+           devcard_id: ${{ secrets.DEVCARD_ID }}
+           commit_branch: master
+           commit_filename: devcard.png
+           commit_message: "chore: update ${filename}"
+
