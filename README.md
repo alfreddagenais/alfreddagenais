@@ -5,7 +5,6 @@
 - 🎨 I’m currently creating a [NFT project][websitenftlove] ❤️!
 - 📝 I’m currently writing a [Blog about technologies][websitekilukrudev] ✍️🖊️!
 - 🔭 I’m currently working on a [Microgreens App][websitemtp] 🌱!
-- 📋 I’m finishing developping a [Form for Covid rapid test][websitemtcovid] 🏥!
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 🤝 I’m looking to collaborate with other content creators
@@ -65,6 +64,20 @@
 
 <br /><br />
 
+## 🏆 Recent projects
+
+- [Je suis un.dev](https://jesuisun.dev) 🥇 [React, NextJs, Google Lighthouse 100]
+- Wordle Quebec 🚧 [React Native, Cloudflare Workers]
+- [NFT and Love][websitenftlove] 💖! [NodeJS, Blockchain, Web3]
+- [Emoji Code Review][websiteemojicodereview] 😀! [SvelteJs, ParcelJs, NodeJS, HTML, Javascript]
+- [Form for Covid rapid test][websitemtcovid] 🏥! [React, MongodBD, Heroku]]
+- [App and Love][websiteappnlove] 💘! [PHP Laravel, Websocket, Nodejs, React, MongodBD]]
+- [Astrology and Horoscope API datas][websitehoroskopos]🌛 [Cloudflare workers, NodeJs, RapidAPI]
+- [Ios, Android app : Pause and Sport][websitepausensport] ⚽ [Python, Phonegap & Cordova, MongodBD, Framework7]]
+- [PHP Word-Count for UTF-8 text](https://github.com/alfreddagenais/php-word-count-utf8) 🙊 [PHP, Composer]]
+
+<br /><br />
+
 ## 📊 GitHub Stats
 
 <img alt="AlfredDagenais's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfreddagenais&theme=vue&hide_border=false&include_all_commits=false&count_private=true" /><br /><img alt="AlfredDagenais's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alfreddagenais&theme=vue&hide_border=false" /><br /><img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreddagenais&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
@@ -109,3 +122,7 @@ Thanks! :heart:
 [websitenftlove]: https://www.nftn.love
 [websitemtcovid]: https://montestcovid.ca
 [websitekilukrudev]: https://kilukru.dev
+[websiteappnlove]: https://appn.love
+[websitepausensport]: https://pausensport.com
+[websitehoroskopos]: https://rapidapi.com/alfreddagenais/api/horoskopos
+[websiteemojicodereview]: https://emojicodereview.dev
