@@ -80,9 +80,7 @@
 
 ## 📊 Stats
 
-<img alt="AlfredDagenais's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfreddagenais&theme=vue&hide_border=false&include_all_commits=false&count_private=true" /><br /><img alt="AlfredDagenais's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alfreddagenais&theme=vue&hide_border=false" /><br /><img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreddagenais&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-
-<a href="https://app.daily.dev/AlfredDagenais"><img src="https://api.daily.dev/devcards/81947ab1c2de4bcd8baf2405eeac658c.png?r=efa" width="400" alt="Alfred Dagenais's Dev Card"/></a>
+<a href="https://app.daily.dev/AlfredDagenais" align="right"><img align="right" src="https://api.daily.dev/devcards/81947ab1c2de4bcd8baf2405eeac658c.png?r=efa" width="300" alt="Alfred Dagenais's Dev Card"/></a><img alt="AlfredDagenais's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfreddagenais&theme=vue&hide_border=false&include_all_commits=false&count_private=true" /><br /><img alt="AlfredDagenais's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alfreddagenais&theme=vue&hide_border=false" /><br /><img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreddagenais&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
 <br /><br />
 
