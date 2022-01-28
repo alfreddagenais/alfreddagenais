@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Déploiement d’une application Node.js complète dans Kubernetes](https://www.kilukru.dev/deploiement-dune-application-node-js-complete-dans-kubernetes/)
 - [Compétences générales pour réussir en tant que développeur](https://www.kilukru.dev/competences-generales-pour-reussir-en-tant-que-developpeur/)
 - [7 idées intéressantes de projets d’IA pour les débutants](https://www.kilukru.dev/7-idees-interessantes-de-projets-dia-pour-les-debutants/)
 - [5 cas d’utilisation de Python que seuls quelques programmeurs connaissent](https://www.kilukru.dev/5-cas-dutilisation-de-python-que-seuls-quelques-programmeurs-connaissent/)
@@ -49,7 +50,6 @@
 - [Tests d’automatisation sans code – Idées fausses et avantages](https://www.kilukru.dev/tests-dautomatisation-sans-code-idees-fausses-et-avantages/)
 - [Golang Vs. Python : Quel langage de programmation vous conviendra le mieux ?](https://www.kilukru.dev/golang-vs-python-quel-langage-de-programmation-vous-conviendra-le-mieux/)
 - [10 outils incontournables du développeur React pour écrire du code propre](https://www.kilukru.dev/10-outils-incontournables-du-developpeur-react-pour-ecrire-du-code-propre/)
-- [4 raisons pour lesquelles j’aime JavaScript ♥](https://www.kilukru.dev/4-raisons-pour-lesquelles-jaime-javascript-%e2%99%a5/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
