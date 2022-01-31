@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Construire et déployer une application Flask à l’aide de Docker](https://www.kilukru.dev/construire-et-deployer-une-application-flask-a-laide-de-docker/)
 - [Déploiement d’une application Node.js complète dans Kubernetes](https://www.kilukru.dev/deploiement-dune-application-node-js-complete-dans-kubernetes/)
 - [Compétences générales pour réussir en tant que développeur](https://www.kilukru.dev/competences-generales-pour-reussir-en-tant-que-developpeur/)
 - [7 idées intéressantes de projets d’IA pour les débutants](https://www.kilukru.dev/7-idees-interessantes-de-projets-dia-pour-les-debutants/)
@@ -49,7 +50,6 @@
 - [Websocket vs. MQTT vs. CoAP : Quel est le meilleur protocole ?](https://www.kilukru.dev/websocket-vs-mqtt-vs-coap-quel-est-le-meilleur-protocole/)
 - [Tests d’automatisation sans code – Idées fausses et avantages](https://www.kilukru.dev/tests-dautomatisation-sans-code-idees-fausses-et-avantages/)
 - [Golang Vs. Python : Quel langage de programmation vous conviendra le mieux ?](https://www.kilukru.dev/golang-vs-python-quel-langage-de-programmation-vous-conviendra-le-mieux/)
-- [10 outils incontournables du développeur React pour écrire du code propre](https://www.kilukru.dev/10-outils-incontournables-du-developpeur-react-pour-ecrire-du-code-propre/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
