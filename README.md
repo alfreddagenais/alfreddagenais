@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Pourquoi le stack MERN est le meilleur pour le développement Web ?](https://www.kilukru.dev/pourquoi-le-stack-mern-est-le-meilleur-pour-le-developpement-web/)
 - [Node.js CI/CD avec les actions GitHub et Heroku](https://www.kilukru.dev/node-js-ci-cd-avec-les-actions-github-et-heroku/)
 - [8 façons d’augmenter considérablement la productivité de vos développeurs](https://www.kilukru.dev/8-facons-daugmenter-considerablement-la-productivite-de-vos-developpeurs/)
 - [Construire une API REST à l’aide de Node.js, Express.js et MongoDB, et la tester sur Postman](https://www.kilukru.dev/construire-une-api-rest-a-laide-de-node-js-express-js-et-mongodb-et-la-tester-sur-postman/)
@@ -49,7 +50,6 @@
 - [7 idées intéressantes de projets d’IA pour les débutants](https://www.kilukru.dev/7-idees-interessantes-de-projets-dia-pour-les-debutants/)
 - [5 cas d’utilisation de Python que seuls quelques programmeurs connaissent](https://www.kilukru.dev/5-cas-dutilisation-de-python-que-seuls-quelques-programmeurs-connaissent/)
 - [Configurer une application Node.js avec ESLint et Prettier](https://www.kilukru.dev/configurer-une-application-node-js-avec-eslint-et-prettier/)
-- [Tendances des logiciels de tests en 2022](https://www.kilukru.dev/tendances-des-logiciels-de-tests-en-2022/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
