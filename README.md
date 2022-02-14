@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [♥ La Saint-Valentin 2022 version Web ♥](https://www.kilukru.dev/%e2%99%a5-la-saint-valentin-2022-version-web-%e2%99%a5/)
 - [Comment apprendre des choses rapidement sans devenir fou ?](https://www.kilukru.dev/comment-apprendre-des-choses-rapidement-sans-devenir-fou/)
 - [Pourquoi le stack MERN est le meilleur pour le développement Web ?](https://www.kilukru.dev/pourquoi-le-stack-mern-est-le-meilleur-pour-le-developpement-web/)
 - [Node.js CI/CD avec les actions GitHub et Heroku](https://www.kilukru.dev/node-js-ci-cd-avec-les-actions-github-et-heroku/)
@@ -49,7 +50,6 @@
 - [Déploiement d’une application Node.js complète dans Kubernetes](https://www.kilukru.dev/deploiement-dune-application-node-js-complete-dans-kubernetes/)
 - [Compétences générales pour réussir en tant que développeur](https://www.kilukru.dev/competences-generales-pour-reussir-en-tant-que-developpeur/)
 - [7 idées intéressantes de projets d’IA pour les débutants](https://www.kilukru.dev/7-idees-interessantes-de-projets-dia-pour-les-debutants/)
-- [5 cas d’utilisation de Python que seuls quelques programmeurs connaissent](https://www.kilukru.dev/5-cas-dutilisation-de-python-que-seuls-quelques-programmeurs-connaissent/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
