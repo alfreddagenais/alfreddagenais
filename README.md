@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Démarrer avec React Query en 2022](https://www.kilukru.dev/demarrer-avec-react-query/)
 - [Démarrer avec Node.js et MQTT](https://www.kilukru.dev/demarrer-avec-node-js-et-mqtt/)
 - [♥ La Saint-Valentin 2022 version Web ♥](https://www.kilukru.dev/%e2%99%a5-la-saint-valentin-2022-version-web-%e2%99%a5/)
 - [Comment apprendre des choses rapidement sans devenir fou ?](https://www.kilukru.dev/comment-apprendre-des-choses-rapidement-sans-devenir-fou/)
@@ -49,7 +50,6 @@
 - [Construire une API REST à l’aide de Node.js, Express.js et MongoDB, et la tester sur Postman](https://www.kilukru.dev/construire-une-api-rest-a-laide-de-node-js-express-js-et-mongodb-et-la-tester-sur-postman/)
 - [Construire et déployer une application Flask à l’aide de Docker](https://www.kilukru.dev/construire-et-deployer-une-application-flask-a-laide-de-docker/)
 - [Déploiement d’une application Node.js complète dans Kubernetes](https://www.kilukru.dev/deploiement-dune-application-node-js-complete-dans-kubernetes/)
-- [Compétences générales pour réussir en tant que développeur](https://www.kilukru.dev/competences-generales-pour-reussir-en-tant-que-developpeur/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
