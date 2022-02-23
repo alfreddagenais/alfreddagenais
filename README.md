@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Test de performance entre Fastify.js, Express.js et Node.js](https://www.kilukru.dev/test-de-performance-entre-fastify-js-express-js-et-node-js/)
 - [10 conseils CSS que vous devez connaître dès maintenant.](https://www.kilukru.dev/10-conseils-css-que-vous-devez-connaitre-des-maintenant/)
 - [Démarrer avec React Query en 2022](https://www.kilukru.dev/demarrer-avec-react-query/)
 - [Démarrer avec Node.js et MQTT](https://www.kilukru.dev/demarrer-avec-node-js-et-mqtt/)
@@ -49,7 +50,6 @@
 - [Node.js CI/CD avec les actions GitHub et Heroku](https://www.kilukru.dev/node-js-ci-cd-avec-les-actions-github-et-heroku/)
 - [8 façons d’augmenter considérablement la productivité de vos développeurs](https://www.kilukru.dev/8-facons-daugmenter-considerablement-la-productivite-de-vos-developpeurs/)
 - [Construire une API REST à l’aide de Node.js, Express.js et MongoDB, et la tester sur Postman](https://www.kilukru.dev/construire-une-api-rest-a-laide-de-node-js-express-js-et-mongodb-et-la-tester-sur-postman/)
-- [Construire et déployer une application Flask à l’aide de Docker](https://www.kilukru.dev/construire-et-deployer-une-application-flask-a-laide-de-docker/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
