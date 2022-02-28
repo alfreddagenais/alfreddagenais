@@ -40,6 +40,8 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Recherche dichotomique – Python code challenge](https://www.kilukru.dev/recherche-dichotomique-python-code-challenge/)
+- [Compter le nombre de paires pour un nombre X de participants en Python](https://www.kilukru.dev/compter-le-nombre-de-paires-pour-un-nombre-x-de-participants-en-python/)
 - [Python – Améliorez votre code avec les décorateurs](https://www.kilukru.dev/python-ameliorez-votre-code-avec-les-decorateurs/)
 - [Test de performance entre Fastify.js, Express.js et Node.js](https://www.kilukru.dev/test-de-performance-entre-fastify-js-express-js-et-node-js/)
 - [10 conseils CSS que vous devez connaître dès maintenant.](https://www.kilukru.dev/10-conseils-css-que-vous-devez-connaitre-des-maintenant/)
@@ -48,8 +50,6 @@
 - [♥ La Saint-Valentin 2022 version Web ♥](https://www.kilukru.dev/%e2%99%a5-la-saint-valentin-2022-version-web-%e2%99%a5/)
 - [Comment apprendre des choses rapidement sans devenir fou ?](https://www.kilukru.dev/comment-apprendre-des-choses-rapidement-sans-devenir-fou/)
 - [Pourquoi le stack MERN est le meilleur pour le développement Web ?](https://www.kilukru.dev/pourquoi-le-stack-mern-est-le-meilleur-pour-le-developpement-web/)
-- [Node.js CI/CD avec les actions GitHub et Heroku](https://www.kilukru.dev/node-js-ci-cd-avec-les-actions-github-et-heroku/)
-- [8 façons d’augmenter considérablement la productivité de vos développeurs](https://www.kilukru.dev/8-facons-daugmenter-considerablement-la-productivite-de-vos-developpeurs/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
