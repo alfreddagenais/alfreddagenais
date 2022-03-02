@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [8 erreurs que les développeurs ont tendance à commettre](https://www.kilukru.dev/8-erreurs-que-les-developpeurs-ont-tendance-a-commettre/)
 - [Recherche dichotomique – Python code challenge](https://www.kilukru.dev/recherche-dichotomique-python-code-challenge/)
 - [Compter le nombre de paires pour un nombre X de participants en Python](https://www.kilukru.dev/compter-le-nombre-de-paires-pour-un-nombre-x-de-participants-en-python/)
 - [Python – Améliorez votre code avec les décorateurs](https://www.kilukru.dev/python-ameliorez-votre-code-avec-les-decorateurs/)
@@ -49,7 +50,6 @@
 - [Démarrer avec Node.js et MQTT](https://www.kilukru.dev/demarrer-avec-node-js-et-mqtt/)
 - [♥ La Saint-Valentin 2022 version Web ♥](https://www.kilukru.dev/%e2%99%a5-la-saint-valentin-2022-version-web-%e2%99%a5/)
 - [Comment apprendre des choses rapidement sans devenir fou ?](https://www.kilukru.dev/comment-apprendre-des-choses-rapidement-sans-devenir-fou/)
-- [Pourquoi le stack MERN est le meilleur pour le développement Web ?](https://www.kilukru.dev/pourquoi-le-stack-mern-est-le-meilleur-pour-le-developpement-web/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
