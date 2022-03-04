@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [5 principes de la méthode agile pour un développement logiciel](https://www.kilukru.dev/5-principes-de-la-methode-agile-pour-un-developpement-logiciel/)
 - [8 erreurs que les développeurs ont tendance à commettre](https://www.kilukru.dev/8-erreurs-que-les-developpeurs-ont-tendance-a-commettre/)
 - [Recherche dichotomique – Python code challenge](https://www.kilukru.dev/recherche-dichotomique-python-code-challenge/)
 - [Compter le nombre de paires pour un nombre X de participants en Python](https://www.kilukru.dev/compter-le-nombre-de-paires-pour-un-nombre-x-de-participants-en-python/)
@@ -49,7 +50,6 @@
 - [Démarrer avec React Query en 2022](https://www.kilukru.dev/demarrer-avec-react-query/)
 - [Démarrer avec Node.js et MQTT](https://www.kilukru.dev/demarrer-avec-node-js-et-mqtt/)
 - [♥ La Saint-Valentin 2022 version Web ♥](https://www.kilukru.dev/%e2%99%a5-la-saint-valentin-2022-version-web-%e2%99%a5/)
-- [Comment apprendre des choses rapidement sans devenir fou ?](https://www.kilukru.dev/comment-apprendre-des-choses-rapidement-sans-devenir-fou/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
