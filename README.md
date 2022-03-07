@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Introduction à la fonction main&lpar;&rpar; en Python](https://www.kilukru.dev/introduction-a-la-fonction-main-en-python/)
 - [5 principes de la méthode agile pour un développement logiciel](https://www.kilukru.dev/5-principes-de-la-methode-agile-pour-un-developpement-logiciel/)
 - [8 erreurs que les développeurs ont tendance à commettre](https://www.kilukru.dev/8-erreurs-que-les-developpeurs-ont-tendance-a-commettre/)
 - [Recherche dichotomique – Python code challenge](https://www.kilukru.dev/recherche-dichotomique-python-code-challenge/)
@@ -49,7 +50,6 @@
 - [10 conseils CSS que vous devez connaître dès maintenant.](https://www.kilukru.dev/10-conseils-css-que-vous-devez-connaitre-des-maintenant/)
 - [Démarrer avec React Query en 2022](https://www.kilukru.dev/demarrer-avec-react-query/)
 - [Démarrer avec Node.js et MQTT](https://www.kilukru.dev/demarrer-avec-node-js-et-mqtt/)
-- [♥ La Saint-Valentin 2022 version Web ♥](https://www.kilukru.dev/%e2%99%a5-la-saint-valentin-2022-version-web-%e2%99%a5/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
