@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Comprendre l’objet Proxy en JavaScript](https://www.kilukru.dev/comprendre-objet-proxy-en-javascript/)
 - [Introduction à la fonction main&lpar;&rpar; en Python](https://www.kilukru.dev/introduction-a-la-fonction-main-en-python/)
 - [5 principes de la méthode agile pour un développement logiciel](https://www.kilukru.dev/5-principes-de-la-methode-agile-pour-un-developpement-logiciel/)
 - [8 erreurs que les développeurs ont tendance à commettre](https://www.kilukru.dev/8-erreurs-que-les-developpeurs-ont-tendance-a-commettre/)
@@ -49,7 +50,6 @@
 - [Test de performance entre Fastify.js, Express.js et Node.js](https://www.kilukru.dev/test-de-performance-entre-fastify-js-express-js-et-node-js/)
 - [10 conseils CSS que vous devez connaître dès maintenant.](https://www.kilukru.dev/10-conseils-css-que-vous-devez-connaitre-des-maintenant/)
 - [Démarrer avec React Query en 2022](https://www.kilukru.dev/demarrer-avec-react-query/)
-- [Démarrer avec Node.js et MQTT](https://www.kilukru.dev/demarrer-avec-node-js-et-mqtt/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
