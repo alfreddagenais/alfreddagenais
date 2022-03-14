@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [10 questions d’entretien React que vous devez connaître en 2022](https://www.kilukru.dev/10-questions-dentretien-react-que-vous-devez-connaitre-en-2022/)
 - [Le bordel du back-end](https://www.kilukru.dev/le-bordel-du-back-end/)
 - [Comprendre l’objet Proxy en JavaScript](https://www.kilukru.dev/comprendre-objet-proxy-en-javascript/)
 - [Introduction à la fonction main&lpar;&rpar; en Python](https://www.kilukru.dev/introduction-a-la-fonction-main-en-python/)
@@ -49,7 +50,6 @@
 - [Compter le nombre de paires pour un nombre X de participants en Python](https://www.kilukru.dev/compter-le-nombre-de-paires-pour-un-nombre-x-de-participants-en-python/)
 - [Python – Améliorez votre code avec les décorateurs](https://www.kilukru.dev/python-ameliorez-votre-code-avec-les-decorateurs/)
 - [Test de performance entre Fastify.js, Express.js et Node.js](https://www.kilukru.dev/test-de-performance-entre-fastify-js-express-js-et-node-js/)
-- [10 conseils CSS que vous devez connaître dès maintenant.](https://www.kilukru.dev/10-conseils-css-que-vous-devez-connaitre-des-maintenant/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
