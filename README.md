@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Équilibreur de charge avec Node.js et Nginx](https://www.kilukru.dev/equilibreur-de-charge-avec-node-js-et-nginx/)
 - [10 questions d’entretien React que vous devez connaître en 2022](https://www.kilukru.dev/10-questions-dentretien-react-que-vous-devez-connaitre-en-2022/)
 - [Le bordel du back-end](https://www.kilukru.dev/le-bordel-du-back-end/)
 - [Comprendre l’objet Proxy en JavaScript](https://www.kilukru.dev/comprendre-objet-proxy-en-javascript/)
@@ -49,7 +50,6 @@
 - [Recherche dichotomique – Python code challenge](https://www.kilukru.dev/recherche-dichotomique-python-code-challenge/)
 - [Compter le nombre de paires pour un nombre X de participants en Python](https://www.kilukru.dev/compter-le-nombre-de-paires-pour-un-nombre-x-de-participants-en-python/)
 - [Python – Améliorez votre code avec les décorateurs](https://www.kilukru.dev/python-ameliorez-votre-code-avec-les-decorateurs/)
-- [Test de performance entre Fastify.js, Express.js et Node.js](https://www.kilukru.dev/test-de-performance-entre-fastify-js-express-js-et-node-js/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
