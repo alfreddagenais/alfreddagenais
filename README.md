@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Planification du sprint : Faut-il utiliser la planification de la vélocité ou de la capacité ?](https://www.kilukru.dev/planification-sprint-utiliser-planification-velocite-ou-capacite/)
 - [Équilibreur de charge avec Node.js et Nginx](https://www.kilukru.dev/equilibreur-de-charge-avec-node-js-et-nginx/)
 - [10 questions d’entretien React que vous devez connaître en 2022](https://www.kilukru.dev/10-questions-dentretien-react-que-vous-devez-connaitre-en-2022/)
 - [Le bordel du back-end](https://www.kilukru.dev/le-bordel-du-back-end/)
@@ -49,7 +50,6 @@
 - [8 erreurs que les développeurs ont tendance à commettre](https://www.kilukru.dev/8-erreurs-que-les-developpeurs-ont-tendance-a-commettre/)
 - [Recherche dichotomique – Python code challenge](https://www.kilukru.dev/recherche-dichotomique-python-code-challenge/)
 - [Compter le nombre de paires pour un nombre X de participants en Python](https://www.kilukru.dev/compter-le-nombre-de-paires-pour-un-nombre-x-de-participants-en-python/)
-- [Python – Améliorez votre code avec les décorateurs](https://www.kilukru.dev/python-ameliorez-votre-code-avec-les-decorateurs/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
