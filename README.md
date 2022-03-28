@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Création d’Enums avec JavaScript Vanille](https://www.kilukru.dev/creation-enums-avec-javascript-vanille/)
 - [Comment nommer votre code ?](https://www.kilukru.dev/comment-nommer-votre-code/)
 - [7 choses à faire pour des Pull Request efficace](https://www.kilukru.dev/7-choses-a-faire-pour-des-pull-request-efficace/)
 - [Planification du sprint : Meilleures pratiques](https://www.kilukru.dev/planification-du-sprint-meilleures-pratiques/)
@@ -49,7 +50,6 @@
 - [Le bordel du back-end](https://www.kilukru.dev/le-bordel-du-back-end/)
 - [Comprendre l’objet Proxy en JavaScript](https://www.kilukru.dev/comprendre-objet-proxy-en-javascript/)
 - [Introduction à la fonction main&lpar;&rpar; en Python](https://www.kilukru.dev/introduction-a-la-fonction-main-en-python/)
-- [5 principes de la méthode agile pour un développement logiciel](https://www.kilukru.dev/5-principes-de-la-methode-agile-pour-un-developpement-logiciel/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
