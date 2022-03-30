@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Test de stress avec une attaque par inondation](https://www.kilukru.dev/test-stress-avec-attaque-par-inondation/)
 - [Création d’Enums avec JavaScript Vanille](https://www.kilukru.dev/creation-enums-avec-javascript-vanille/)
 - [Comment nommer votre code ?](https://www.kilukru.dev/comment-nommer-votre-code/)
 - [7 choses à faire pour des Pull Request efficace](https://www.kilukru.dev/7-choses-a-faire-pour-des-pull-request-efficace/)
@@ -49,7 +50,6 @@
 - [10 questions d’entretien React que vous devez connaître en 2022](https://www.kilukru.dev/10-questions-dentretien-react-que-vous-devez-connaitre-en-2022/)
 - [Le bordel du back-end](https://www.kilukru.dev/le-bordel-du-back-end/)
 - [Comprendre l’objet Proxy en JavaScript](https://www.kilukru.dev/comprendre-objet-proxy-en-javascript/)
-- [Introduction à la fonction main&lpar;&rpar; en Python](https://www.kilukru.dev/introduction-a-la-fonction-main-en-python/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
