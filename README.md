@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [10 astuces rapides pour TypeScript](https://www.kilukru.dev/10-astuces-rapides-pour-typescript/)
 - [Test de stress avec une attaque par inondation](https://www.kilukru.dev/test-stress-avec-attaque-par-inondation/)
 - [Création d’Enums avec JavaScript Vanille](https://www.kilukru.dev/creation-enums-avec-javascript-vanille/)
 - [Comment nommer votre code ?](https://www.kilukru.dev/comment-nommer-votre-code/)
@@ -49,7 +50,6 @@
 - [Équilibreur de charge avec Node.js et Nginx](https://www.kilukru.dev/equilibreur-de-charge-avec-node-js-et-nginx/)
 - [10 questions d’entretien React que vous devez connaître en 2022](https://www.kilukru.dev/10-questions-dentretien-react-que-vous-devez-connaitre-en-2022/)
 - [Le bordel du back-end](https://www.kilukru.dev/le-bordel-du-back-end/)
-- [Comprendre l’objet Proxy en JavaScript](https://www.kilukru.dev/comprendre-objet-proxy-en-javascript/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
