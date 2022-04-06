@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Comment utiliser httpx, un client web pour Python](https://www.kilukru.dev/comment-utiliser-httpx-un-client-web-pour-python/)
 - [10 astuces rapides pour TypeScript](https://www.kilukru.dev/10-astuces-rapides-pour-typescript/)
 - [Test de stress avec une attaque par inondation](https://www.kilukru.dev/test-stress-avec-attaque-par-inondation/)
 - [Création d’Enums avec JavaScript Vanille](https://www.kilukru.dev/creation-enums-avec-javascript-vanille/)
@@ -49,7 +50,6 @@
 - [Planification du sprint : Faut-il utiliser la planification de la vélocité ou de la capacité ?](https://www.kilukru.dev/planification-sprint-utiliser-planification-velocite-ou-capacite/)
 - [Équilibreur de charge avec Node.js et Nginx](https://www.kilukru.dev/equilibreur-de-charge-avec-node-js-et-nginx/)
 - [10 questions d’entretien React que vous devez connaître en 2022](https://www.kilukru.dev/10-questions-dentretien-react-que-vous-devez-connaitre-en-2022/)
-- [Le bordel du back-end](https://www.kilukru.dev/le-bordel-du-back-end/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
