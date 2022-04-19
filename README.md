@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [La plus petite image Docker pour des sites web statiques](https://www.kilukru.dev/la-plus-petite-image-docker-pour-des-sites-web-statiques/)
 - [Comment réussir un MVP de votre logiciel ?](https://www.kilukru.dev/comment-reussir-un-mvp-de-votre-logiciel/)
 - [10 signes d’un mauvais leadership pour un responsable technologique](https://www.kilukru.dev/10-signes-mauvais-leadership-responsable-technologique/)
 - [Comment utiliser httpx, un client web pour Python](https://www.kilukru.dev/comment-utiliser-httpx-un-client-web-pour-python/)
@@ -49,7 +50,6 @@
 - [Comment nommer votre code ?](https://www.kilukru.dev/comment-nommer-votre-code/)
 - [7 choses à faire pour des Pull Request efficace](https://www.kilukru.dev/7-choses-a-faire-pour-des-pull-request-efficace/)
 - [Planification du sprint : Meilleures pratiques](https://www.kilukru.dev/planification-du-sprint-meilleures-pratiques/)
-- [Planification du sprint : Faut-il utiliser la planification de la vélocité ou de la capacité ?](https://www.kilukru.dev/planification-sprint-utiliser-planification-velocite-ou-capacite/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
