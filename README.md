@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Comment écrire des programmes sans bogues](https://www.kilukru.dev/comment-ecrire-des-programmes-sans-bogues/)
 - [La plus petite image Docker pour des sites web statiques](https://www.kilukru.dev/la-plus-petite-image-docker-pour-des-sites-web-statiques/)
 - [Comment réussir un MVP de votre logiciel ?](https://www.kilukru.dev/comment-reussir-un-mvp-de-votre-logiciel/)
 - [10 signes d’un mauvais leadership pour un responsable technologique](https://www.kilukru.dev/10-signes-mauvais-leadership-responsable-technologique/)
@@ -49,7 +50,6 @@
 - [Création d’Enums avec JavaScript Vanille](https://www.kilukru.dev/creation-enums-avec-javascript-vanille/)
 - [Comment nommer votre code ?](https://www.kilukru.dev/comment-nommer-votre-code/)
 - [7 choses à faire pour des Pull Request efficace](https://www.kilukru.dev/7-choses-a-faire-pour-des-pull-request-efficace/)
-- [Planification du sprint : Meilleures pratiques](https://www.kilukru.dev/planification-du-sprint-meilleures-pratiques/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
