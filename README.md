@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Fritzing Version 0.9.10 was released on May 22, 2022.](https://www.kilukru.dev/fritzing-version-0-9-10-was-released-on-may-22-2022/)
 - [Comment écrire des programmes sans bogues](https://www.kilukru.dev/comment-ecrire-des-programmes-sans-bogues/)
 - [La plus petite image Docker pour des sites web statiques](https://www.kilukru.dev/la-plus-petite-image-docker-pour-des-sites-web-statiques/)
 - [Comment réussir un MVP de votre logiciel ?](https://www.kilukru.dev/comment-reussir-un-mvp-de-votre-logiciel/)
@@ -49,7 +50,6 @@
 - [Test de stress avec une attaque par inondation](https://www.kilukru.dev/test-stress-avec-attaque-par-inondation/)
 - [Création d’Enums avec JavaScript Vanille](https://www.kilukru.dev/creation-enums-avec-javascript-vanille/)
 - [Comment nommer votre code ?](https://www.kilukru.dev/comment-nommer-votre-code/)
-- [7 choses à faire pour des Pull Request efficace](https://www.kilukru.dev/7-choses-a-faire-pour-des-pull-request-efficace/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
