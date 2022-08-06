@@ -40,6 +40,8 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Meilleures pratiques en matière de révision du code](https://www.kilukru.dev/meilleures-pratiques-en-matiere-de-revision-du-code/)
+- [La révision du code est-elle nuisible ?](https://www.kilukru.dev/revision-du-code-est-elle-nuisible/)
 - [Fritzing Version 0.9.10 was released on May 22, 2022.](https://www.kilukru.dev/fritzing-version-0-9-10-was-released-on-may-22-2022/)
 - [Comment écrire des programmes sans bogues](https://www.kilukru.dev/comment-ecrire-des-programmes-sans-bogues/)
 - [La plus petite image Docker pour des sites web statiques](https://www.kilukru.dev/la-plus-petite-image-docker-pour-des-sites-web-statiques/)
@@ -48,8 +50,6 @@
 - [Comment utiliser httpx, un client web pour Python](https://www.kilukru.dev/comment-utiliser-httpx-un-client-web-pour-python/)
 - [10 astuces rapides pour TypeScript](https://www.kilukru.dev/10-astuces-rapides-pour-typescript/)
 - [Test de stress avec une attaque par inondation](https://www.kilukru.dev/test-stress-avec-attaque-par-inondation/)
-- [Création d’Enums avec JavaScript Vanille](https://www.kilukru.dev/creation-enums-avec-javascript-vanille/)
-- [Comment nommer votre code ?](https://www.kilukru.dev/comment-nommer-votre-code/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
