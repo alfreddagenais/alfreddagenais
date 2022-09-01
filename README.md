@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Comment communiquer en tant que programmeur](https://www.kilukru.dev/comment-communiquer-en-tant-que-programmeur/)
 - [Meilleures pratiques en matière de révision du code](https://www.kilukru.dev/meilleures-pratiques-en-matiere-de-revision-du-code/)
 - [La révision du code est-elle nuisible ?](https://www.kilukru.dev/revision-du-code-est-elle-nuisible/)
 - [Fritzing Version 0.9.10 was released on May 22, 2022.](https://www.kilukru.dev/fritzing-version-0-9-10-was-released-on-may-22-2022/)
@@ -49,7 +50,6 @@
 - [10 signes d’un mauvais leadership pour un responsable technologique](https://www.kilukru.dev/10-signes-mauvais-leadership-responsable-technologique/)
 - [Comment utiliser httpx, un client web pour Python](https://www.kilukru.dev/comment-utiliser-httpx-un-client-web-pour-python/)
 - [10 astuces rapides pour TypeScript](https://www.kilukru.dev/10-astuces-rapides-pour-typescript/)
-- [Test de stress avec une attaque par inondation](https://www.kilukru.dev/test-stress-avec-attaque-par-inondation/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
