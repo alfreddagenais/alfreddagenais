@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Client-Side Rendering &lpar;CSR&rpar; vs Server-Side Rendering &lpar;SSR&rpar;](https://www.kilukru.dev/client-side-rendering-csr-vs-server-side-rendering-ssr/)
 - [Comment communiquer en tant que programmeur](https://www.kilukru.dev/comment-communiquer-en-tant-que-programmeur/)
 - [Meilleures pratiques en matière de révision du code](https://www.kilukru.dev/meilleures-pratiques-en-matiere-de-revision-du-code/)
 - [La révision du code est-elle nuisible ?](https://www.kilukru.dev/revision-du-code-est-elle-nuisible/)
@@ -49,7 +50,6 @@
 - [Comment réussir un MVP de votre logiciel ?](https://www.kilukru.dev/comment-reussir-un-mvp-de-votre-logiciel/)
 - [10 signes d’un mauvais leadership pour un responsable technologique](https://www.kilukru.dev/10-signes-mauvais-leadership-responsable-technologique/)
 - [Comment utiliser httpx, un client web pour Python](https://www.kilukru.dev/comment-utiliser-httpx-un-client-web-pour-python/)
-- [10 astuces rapides pour TypeScript](https://www.kilukru.dev/10-astuces-rapides-pour-typescript/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
