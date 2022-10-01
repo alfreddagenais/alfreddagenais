@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Est-ce qu’on doit utiliser les fichiers source .map en production ?](https://www.kilukru.dev/est-ce-quon-doit-utiliser-les-fichiers-source-map-en-production/)
 - [Client-Side Rendering &lpar;CSR&rpar; vs Server-Side Rendering &lpar;SSR&rpar;](https://www.kilukru.dev/client-side-rendering-csr-vs-server-side-rendering-ssr/)
 - [Comment communiquer en tant que programmeur](https://www.kilukru.dev/comment-communiquer-en-tant-que-programmeur/)
 - [Meilleures pratiques en matière de révision du code](https://www.kilukru.dev/meilleures-pratiques-en-matiere-de-revision-du-code/)
@@ -49,7 +50,6 @@
 - [La plus petite image Docker pour des sites web statiques](https://www.kilukru.dev/la-plus-petite-image-docker-pour-des-sites-web-statiques/)
 - [Comment réussir un MVP de votre logiciel ?](https://www.kilukru.dev/comment-reussir-un-mvp-de-votre-logiciel/)
 - [10 signes d’un mauvais leadership pour un responsable technologique](https://www.kilukru.dev/10-signes-mauvais-leadership-responsable-technologique/)
-- [Comment utiliser httpx, un client web pour Python](https://www.kilukru.dev/comment-utiliser-httpx-un-client-web-pour-python/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
