@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Qu’est-ce qui rend les développeurs malheureux ?](https://www.kilukru.dev/quest-ce-qui-rend-les-developpeurs-malheureux/)
 - [Meilleures pratiques de référencement &lpar;SEO&rpar; en JavaScript](https://www.kilukru.dev/meilleures-pratiques-de-referencement-seo-en-javascript/)
 - [Est-ce qu’on doit utiliser les fichiers source .map en production ?](https://www.kilukru.dev/est-ce-quon-doit-utiliser-les-fichiers-source-map-en-production/)
 - [Client-Side Rendering &lpar;CSR&rpar; vs Server-Side Rendering &lpar;SSR&rpar;](https://www.kilukru.dev/client-side-rendering-csr-vs-server-side-rendering-ssr/)
@@ -49,7 +50,6 @@
 - [Fritzing Version 0.9.10 was released on May 22, 2022.](https://www.kilukru.dev/fritzing-version-0-9-10-was-released-on-may-22-2022/)
 - [Comment écrire des programmes sans bogues](https://www.kilukru.dev/comment-ecrire-des-programmes-sans-bogues/)
 - [La plus petite image Docker pour des sites web statiques](https://www.kilukru.dev/la-plus-petite-image-docker-pour-des-sites-web-statiques/)
-- [Comment réussir un MVP de votre logiciel ?](https://www.kilukru.dev/comment-reussir-un-mvp-de-votre-logiciel/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
