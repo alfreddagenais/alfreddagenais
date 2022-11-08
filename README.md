@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [5 raisons pour lesquelles les enfants devraient commencer à coder tôt](https://www.kilukru.dev/5-raisons-pour-lesquelles-les-enfants-devraient-commencer-a-coder-tot/)
 - [Est-ce qu’un directeur technique &lpar;CTO&rpar; doit être technique?](https://www.kilukru.dev/est-ce-quun-directeur-technique-cto-doit-etre-technique/)
 - [Qu’est-ce qui rend les développeurs malheureux ?](https://www.kilukru.dev/quest-ce-qui-rend-les-developpeurs-malheureux/)
 - [Meilleures pratiques de référencement &lpar;SEO&rpar; en JavaScript](https://www.kilukru.dev/meilleures-pratiques-de-referencement-seo-en-javascript/)
@@ -49,7 +50,6 @@
 - [Meilleures pratiques en matière de révision du code](https://www.kilukru.dev/meilleures-pratiques-en-matiere-de-revision-du-code/)
 - [La révision du code est-elle nuisible ?](https://www.kilukru.dev/revision-du-code-est-elle-nuisible/)
 - [Fritzing Version 0.9.10 was released on May 22, 2022.](https://www.kilukru.dev/fritzing-version-0-9-10-was-released-on-may-22-2022/)
-- [Comment écrire des programmes sans bogues](https://www.kilukru.dev/comment-ecrire-des-programmes-sans-bogues/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
