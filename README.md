@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [7 compétences non techniques indispensables pour les développeurs en 2023](https://www.kilukru.dev/7-competences-non-techniques-indispensables-pour-les-developpeurs-en-2023/)
 - [Comment rendre ces produits unique ? Définition, stratégies et exemples](https://www.kilukru.dev/comment-rendre-ces-produits-unique-definition-strategies-et-exemples/)
 - [Comment devenir un programmeur plus rapide](https://www.kilukru.dev/comment-devenir-un-programmeur-plus-rapide/)
 - [5 raisons pour lesquelles les enfants devraient commencer à coder tôt](https://www.kilukru.dev/5-raisons-pour-lesquelles-les-enfants-devraient-commencer-a-coder-tot/)
@@ -49,7 +50,6 @@
 - [Est-ce qu’on doit utiliser les fichiers source .map en production ?](https://www.kilukru.dev/est-ce-quon-doit-utiliser-les-fichiers-source-map-en-production/)
 - [Client-Side Rendering &lpar;CSR&rpar; vs Server-Side Rendering &lpar;SSR&rpar;](https://www.kilukru.dev/client-side-rendering-csr-vs-server-side-rendering-ssr/)
 - [Comment communiquer en tant que programmeur](https://www.kilukru.dev/comment-communiquer-en-tant-que-programmeur/)
-- [Meilleures pratiques en matière de révision du code](https://www.kilukru.dev/meilleures-pratiques-en-matiere-de-revision-du-code/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
