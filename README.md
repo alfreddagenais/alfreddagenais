@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Directeur technique &lpar;CTO&rpar; d’une startup : Rôles, responsabilités et défis principaux](https://www.kilukru.dev/directeur-technique-cto-dune-startup-roles-responsabilites-et-defis-principaux/)
 - [7 compétences non techniques indispensables pour les développeurs en 2023](https://www.kilukru.dev/7-competences-non-techniques-indispensables-pour-les-developpeurs-en-2023/)
 - [Comment rendre ces produits unique ? Définition, stratégies et exemples](https://www.kilukru.dev/comment-rendre-ces-produits-unique-definition-strategies-et-exemples/)
 - [Comment devenir un programmeur plus rapide](https://www.kilukru.dev/comment-devenir-un-programmeur-plus-rapide/)
@@ -49,7 +50,6 @@
 - [Meilleures pratiques de référencement &lpar;SEO&rpar; en JavaScript](https://www.kilukru.dev/meilleures-pratiques-de-referencement-seo-en-javascript/)
 - [Est-ce qu’on doit utiliser les fichiers source .map en production ?](https://www.kilukru.dev/est-ce-quon-doit-utiliser-les-fichiers-source-map-en-production/)
 - [Client-Side Rendering &lpar;CSR&rpar; vs Server-Side Rendering &lpar;SSR&rpar;](https://www.kilukru.dev/client-side-rendering-csr-vs-server-side-rendering-ssr/)
-- [Comment communiquer en tant que programmeur](https://www.kilukru.dev/comment-communiquer-en-tant-que-programmeur/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
