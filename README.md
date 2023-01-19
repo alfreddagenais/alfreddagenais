@@ -1,14 +1,14 @@
 ### Hi there, I'm ✨ [Alfred][website] ✨ - as [Kilukru Media][websitekm] [ki ly kʀy] 👋 
 
 ## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Home Builder and a Dancer! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
-- 👨🏻‍💻 Developer with more then 16 years experience
-- 🎨 I’m currently creating a [NFT project][websitenftlove] ❤️!
+- 👨🏻‍💻 Developer with more then 17 years experience
+- 🎨 I’m currently creating a app for pottery and many others ideas ❤️!
 - 📝 I’m currently writing a [Blog about technologies][websitekilukrudev] ✍️🖊️!
 - 🔭 I’m currently working on a [Microgreens App][websitemtp] 🌱!
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 🚀 One day I will see humans on Mars!
 - ⚡ Fun facts: I love to be in the garden and build a house
 
