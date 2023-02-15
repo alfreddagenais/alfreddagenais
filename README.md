@@ -40,6 +40,7 @@
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [5 habitudes à adopter pour une carrière de développeur réussie](https://www.kilukru.dev/5-habitudes-a-adopter-pour-une-carriere-de-developpeur-reussie/)
 - [Oui, votre entreprise a besoin de No Code maintenant](https://www.kilukru.dev/oui-votre-entreprise-a-besoin-de-no-code-maintenant/)
 - [Directeur technique &lpar;CTO&rpar; d’une startup : Rôles, responsabilités et défis principaux](https://www.kilukru.dev/directeur-technique-cto-dune-startup-roles-responsabilites-et-defis-principaux/)
 - [7 compétences non techniques indispensables pour les développeurs en 2023](https://www.kilukru.dev/7-competences-non-techniques-indispensables-pour-les-developpeurs-en-2023/)
@@ -49,7 +50,6 @@
 - [Est-ce qu’un directeur technique &lpar;CTO&rpar; doit être technique?](https://www.kilukru.dev/est-ce-quun-directeur-technique-cto-doit-etre-technique/)
 - [Qu’est-ce qui rend les développeurs malheureux ?](https://www.kilukru.dev/quest-ce-qui-rend-les-developpeurs-malheureux/)
 - [Meilleures pratiques de référencement &lpar;SEO&rpar; en JavaScript](https://www.kilukru.dev/meilleures-pratiques-de-referencement-seo-en-javascript/)
-- [Est-ce qu’on doit utiliser les fichiers source .map en production ?](https://www.kilukru.dev/est-ce-quon-doit-utiliser-les-fichiers-source-map-en-production/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
