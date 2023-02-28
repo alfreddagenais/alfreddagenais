@@ -44,6 +44,7 @@
 <a href="https://app.daily.dev/AlfredDagenais" align="right"><img align="right" src="https://github.com/alfreddagenais/alfreddagenais/blob/master/devcard.svg" width="250" alt="Alfred Dagenais's Dev Card"/></a>
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [10 conseils pour devenir un leader technologique à succès](https://www.kilukru.dev/10-conseils-pour-devenir-un-leader-technologique-a-succes/)
 - [Les fondamentaux du management : Comment devenir un grand responsable technique &lpar;Tech Lead&rpar;](https://www.kilukru.dev/les-fondamentaux-du-management-comment-devenir-un-grand-responsable-technique-tech-lead/)
 - [5 habitudes à adopter pour une carrière de développeur réussie](https://www.kilukru.dev/5-habitudes-a-adopter-pour-une-carriere-de-developpeur-reussie/)
 - [Oui, votre entreprise a besoin de No Code maintenant](https://www.kilukru.dev/oui-votre-entreprise-a-besoin-de-no-code-maintenant/)
@@ -53,7 +54,6 @@
 - [Comment devenir un programmeur plus rapide](https://www.kilukru.dev/comment-devenir-un-programmeur-plus-rapide/)
 - [5 raisons pour lesquelles les enfants devraient commencer à coder tôt](https://www.kilukru.dev/5-raisons-pour-lesquelles-les-enfants-devraient-commencer-a-coder-tot/)
 - [Est-ce qu’un directeur technique &lpar;CTO&rpar; doit être technique?](https://www.kilukru.dev/est-ce-quun-directeur-technique-cto-doit-etre-technique/)
-- [Qu’est-ce qui rend les développeurs malheureux ?](https://www.kilukru.dev/quest-ce-qui-rend-les-developpeurs-malheureux/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
