@@ -44,6 +44,7 @@
 <a href="https://app.daily.dev/AlfredDagenais" align="right"><img align="right" src="https://github.com/alfreddagenais/alfreddagenais/blob/master/devcard.svg" width="250" alt="Alfred Dagenais's Dev Card"/></a>
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Améliorez votre codage en 5 étapes faciles](https://www.kilukru.dev/ameliorez-votre-codage-en-5-etapes-faciles/)
 - [10 conseils pour devenir un leader technologique à succès](https://www.kilukru.dev/10-conseils-pour-devenir-un-leader-technologique-a-succes/)
 - [Les fondamentaux du management : Comment devenir un grand responsable technique &lpar;Tech Lead&rpar;](https://www.kilukru.dev/les-fondamentaux-du-management-comment-devenir-un-grand-responsable-technique-tech-lead/)
 - [5 habitudes à adopter pour une carrière de développeur réussie](https://www.kilukru.dev/5-habitudes-a-adopter-pour-une-carriere-de-developpeur-reussie/)
@@ -53,7 +54,6 @@
 - [Comment rendre ces produits unique ? Définition, stratégies et exemples](https://www.kilukru.dev/comment-rendre-ces-produits-unique-definition-strategies-et-exemples/)
 - [Comment devenir un programmeur plus rapide](https://www.kilukru.dev/comment-devenir-un-programmeur-plus-rapide/)
 - [5 raisons pour lesquelles les enfants devraient commencer à coder tôt](https://www.kilukru.dev/5-raisons-pour-lesquelles-les-enfants-devraient-commencer-a-coder-tot/)
-- [Est-ce qu’un directeur technique &lpar;CTO&rpar; doit être technique?](https://www.kilukru.dev/est-ce-quun-directeur-technique-cto-doit-etre-technique/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
