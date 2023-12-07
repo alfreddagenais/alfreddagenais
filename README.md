@@ -41,7 +41,7 @@
 
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
-<a href="https://app.daily.dev/AlfredDagenais" align="right"><img align="right" src="https://github.com/alfreddagenais/alfreddagenais/blob/master/devcard.svg" width="250" alt="Alfred Dagenais's Dev Card"/></a>
+<a href="https://app.daily.dev/alfreddagenais" align="right"><img align="right" src="https://github.com/alfreddagenais/alfreddagenais/blob/master/devcard.svg" width="250" alt="Alfred Dagenais's Dev Card"/></a>
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
 - [Quand la simplicité bat la complexité : Réflexions sur l’article de Dominic Gagnon](https://www.kilukru.dev/quand-la-simplicite-bat-la-complexite-reflexions-sur-larticle-de-dominic-gagnon/)
