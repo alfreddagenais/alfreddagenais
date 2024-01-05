@@ -44,6 +44,7 @@
 <a href="https://app.daily.dev/alfreddagenais" align="right"><img align="right" src="https://github.com/alfreddagenais/alfreddagenais/blob/master/devcard.svg" width="250" alt="Alfred Dagenais's Dev Card"/></a>
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Un guide de communication client pour les développeurs et agences](https://www.kilukru.dev/un-guide-de-communication-client-pour-les-developpeurs-et-agences/)
 - [Quand la simplicité bat la complexité : Réflexions sur l’article de Dominic Gagnon](https://www.kilukru.dev/quand-la-simplicite-bat-la-complexite-reflexions-sur-larticle-de-dominic-gagnon/)
 - [Comment gérer plusieurs projets en tant que développeur](https://www.kilukru.dev/comment-gerer-plusieurs-projets-en-tant-que-developpeur/)
 - [Les 10 principes d’une bonne conception de site web en 2023](https://www.kilukru.dev/les-10-principes-dune-bonne-conception-de-site-web-en-2023/)
@@ -53,7 +54,6 @@
 - [10 conseils pour devenir un leader technologique à succès](https://www.kilukru.dev/10-conseils-pour-devenir-un-leader-technologique-a-succes/)
 - [Les fondamentaux du management : Comment devenir un grand responsable technique &lpar;Tech Lead&rpar;](https://www.kilukru.dev/les-fondamentaux-du-management-comment-devenir-un-grand-responsable-technique-tech-lead/)
 - [5 habitudes à adopter pour une carrière de développeur réussie](https://www.kilukru.dev/5-habitudes-a-adopter-pour-une-carriere-de-developpeur-reussie/)
-- [Oui, votre entreprise a besoin de No Code maintenant](https://www.kilukru.dev/oui-votre-entreprise-a-besoin-de-no-code-maintenant/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
