@@ -44,6 +44,7 @@
 <a href="https://app.daily.dev/alfreddagenais" align="right"><img align="right" src="https://github.com/alfreddagenais/alfreddagenais/blob/master/devcard.svg" width="250" alt="Alfred Dagenais's Dev Card"/></a>
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Rapport Speedix et Kilukru : Votre Alliance pour une Optimisation SEO Accessible et Efficace](https://www.kilukru.dev/rapport-speedix-et-kilukru-votre-alliance-pour-une-optimisation-seo-accessible-et-efficace/)
 - [Un guide de communication client pour les développeurs et agences](https://www.kilukru.dev/un-guide-de-communication-client-pour-les-developpeurs-et-agences/)
 - [Quand la simplicité bat la complexité : Réflexions sur l’article de Dominic Gagnon](https://www.kilukru.dev/quand-la-simplicite-bat-la-complexite-reflexions-sur-larticle-de-dominic-gagnon/)
 - [Comment gérer plusieurs projets en tant que développeur](https://www.kilukru.dev/comment-gerer-plusieurs-projets-en-tant-que-developpeur/)
@@ -53,7 +54,6 @@
 - [Améliorez votre codage en 5 étapes faciles](https://www.kilukru.dev/ameliorez-votre-codage-en-5-etapes-faciles/)
 - [10 conseils pour devenir un leader technologique à succès](https://www.kilukru.dev/10-conseils-pour-devenir-un-leader-technologique-a-succes/)
 - [Les fondamentaux du management : Comment devenir un grand responsable technique &lpar;Tech Lead&rpar;](https://www.kilukru.dev/les-fondamentaux-du-management-comment-devenir-un-grand-responsable-technique-tech-lead/)
-- [5 habitudes à adopter pour une carrière de développeur réussie](https://www.kilukru.dev/5-habitudes-a-adopter-pour-une-carriere-de-developpeur-reussie/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
