@@ -44,6 +44,7 @@
 <a href="https://app.daily.dev/alfreddagenais" align="right"><img align="right" src="https://github.com/alfreddagenais/alfreddagenais/blob/master/devcard.svg" width="250" alt="Alfred Dagenais's Dev Card"/></a>
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
+- [10 Façons de décourager les développeurs au travail](https://www.kilukru.dev/10-facons-de-decourager-les-developpeurs-au-travail/)
 - [Révolution SEO avec ChatGPT : Découvrez le Plugin Rapport Speedix pour des Analyses Intelligentes](https://www.kilukru.dev/revolution-seo-avec-chatgpt-decouvrez-le-plugin-rapport-speedix-pour-des-analyses-intelligentes/)
 - [Rapport Speedix et Kilukru : Votre Alliance pour une Optimisation SEO Accessible et Efficace](https://www.kilukru.dev/rapport-speedix-et-kilukru-votre-alliance-pour-une-optimisation-seo-accessible-et-efficace/)
 - [Un guide de communication client pour les développeurs et agences](https://www.kilukru.dev/un-guide-de-communication-client-pour-les-developpeurs-et-agences/)
@@ -53,7 +54,6 @@
 - [Comment définir un projet réussi en 10 étapes](https://www.kilukru.dev/comment-definir-un-projet-reussi-en-10-etapes/)
 - [Conseils pour définir la portée d’un projet](https://www.kilukru.dev/conseils-pour-definir-la-portee-dun-projet/)
 - [Améliorez votre codage en 5 étapes faciles](https://www.kilukru.dev/ameliorez-votre-codage-en-5-etapes-faciles/)
-- [10 conseils pour devenir un leader technologique à succès](https://www.kilukru.dev/10-conseils-pour-devenir-un-leader-technologique-a-succes/)
 <!-- BLOG-KILUKRU-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts on AlfredDagenais's blog
