@@ -4,12 +4,12 @@
 
 ### Experience includes (but is not limited to):
 
-- 👨🏻‍💻 Developer with more then 17 years experience
+- 👨🏻‍💻 Developer with more then 18 years experience
 - 📝 I’m currently writing a [Blog about technologies][websitekilukrudev] ✍️🖊️!
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 🚀 One day I will see humans on Mars!
 - ⚡ Fun facts: I love to be in the garden and build a house
 - 🎤 Giving talks at events on topics related to technology, product development, community building, and company culture
