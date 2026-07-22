@@ -1,29 +1,42 @@
 ### Hi there, I'm ✨ [Alfred][website] ✨ - as [Kilukru][websitekilukrudev] [ki ly kʀy] 👋 
 
-## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Home Builder and a Dancer! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## Senior Full-Stack Engineer | Technical Leader | Product-Minded Builder <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
-### Experience includes (but is not limited to):
+I have **20+ years of experience** building and modernizing digital products across media, fintech, e-commerce, SaaS, and agency environments.
 
-- 👨🏻‍💻 Developer with more then 18 years experience
-- 📝 I’m currently writing a [Blog about technologies][websitekilukrudev] ✍️🖊️!
-- 🌱 I’m currently learning everything 🤣
-- 💡 I love innovation and new technologies
-- 🤝 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- 🚀 One day I will see humans on Mars!
-- ⚡ Fun facts: I love to be in the garden and build a house
-- 🎤 Giving talks at events on topics related to technology, product development, community building, and company culture
+I enjoy turning complex problems into **simple, reliable, and maintainable solutions**, while helping teams make better technical decisions.
 
-### Professional interests include (but are not limited to):
+## What I do
 
-- ✨ Leadership
-- 🤖 AI & Tooling & Automation
-- ⛓ Software Supply Chain
-- 🛡 Security
-- 💬 Developer Relations
-- 🧪 Product Strategy & Development
-- 🎨 User Experience & Interface Design
-- 💼 Startups & Entrepreneurship
+- 🧭 Technical leadership and architecture
+- 🏗 Full-stack product development
+- 🤝 Mentoring, collaboration, and code quality
+- 🚀 CI/CD, automation, and developer experience
+- 🛡 Security, privacy, and reliability
+- 🤖 AI-assisted development and internal tooling
+- 🧠 Product strategy and technical discovery
+
+## Technologies
+
+**Frontend:** React, Next.js, TypeScript  
+**Backend:** Node.js, PHP, Laravel, WordPress, .NET  
+**Cloud & Delivery:** AWS, Cloudflare, CI/CD, Sentry, Raygun  
+**Security:** OAuth 2.0, JWT, OWASP, secure coding  
+**Product:** UX, accessibility, performance, analytics
+
+## My leadership approach
+
+I believe strong technical leadership is about creating clarity, making trade-offs visible, keeping solutions simple, and helping others take ownership.
+
+I am interested in opportunities combining:
+
+**Hands-on engineering · Architecture · Mentoring · Product thinking · Team enablement**
+
+## Beyond software
+
+I am also a home builder, gardener, dancer, DJ, and community-minded creator.
+
+I enjoy building useful things, bringing people together, and making complex experiences feel simple.
 
 <br />
 
